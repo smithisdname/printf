@@ -15,4 +15,4 @@ The _printf() function produces output according to a format which is described 
 All the files are to be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 Include the "holberton.h" header file on the functions using the _printf()
 
-This is a group project by oluwasegun nathaniel & sonia kanu
+This is a group project by Oluwasegun Nathaniel & Kanu Onyinyechi Sonia
